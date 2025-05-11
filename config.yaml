@@ -1,0 +1,4 @@
+appid: ""        # QQ机器人应用ID
+secret: ""       # QQ机器人应用密钥
+audit: true      # 审核模式
+sandbox: false   # 沙盒模式
